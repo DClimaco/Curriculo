@@ -2,9 +2,19 @@ img{
     border-radius: 50%;
 }
 
-h1{
-    color: darkorange;    
+#titulo{
+    color: gold;
+    background-color: purple;    
+}
+#titulop{
+    background-color: black;
+    color: red;
+}
+#tituloc{
+    background-color: black;
+    color: red;
 }
 h2{
-    color: royalblue;
+    background-color: purple;
+    color: gold;
 }
