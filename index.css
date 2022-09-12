@@ -14,19 +14,13 @@ header{
 #titulo{
     margin-left: 30px;
     color:whitesmoke;   
+    font-family: 'Bungee', cursive;
 }
 
 img#hero{
     border-radius: 50%;
     border: 3px solid black;
     margin: 10px;
-}
-
-
-img#snow{
-    border-radius: 50%;
-    border: 1px solid black;
-    justify-content: left;
 }
 
 nav ul{
@@ -37,49 +31,55 @@ nav ul{
     list-style-type: none;
     background-color: rgb(42, 84, 126);
     height: 35px;
+    font-family: 'Bungee', cursive;
 }
 
 nav ul li a:link,a:visited{
     color: rgb(255, 255, 255);
     text-decoration: none;
     font-size: 25px;
+    font-family: 'Bungee', cursive;
 }
 
 nav ul li a:hover{
-    background-color: whitesmoke;
     color: gray;
     font-size: 25px;
     text-decoration: underline;
+    font-family: 'Bungee', cursive;
 }
 
 h2#sobre{
     margin-top: 1px;
     background-color: rgb(102, 102, 119);
+    font-family: 'Bungee', cursive;
 }
 
 p{
+    margin-left: 8px;
     margin-top: 5px;
     font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Bungee', cursive;
 }
 
 footer{
-    margin-top: 1px;
-    display: flex;
-    align-items: center;
-    justify-content: left;
-    list-style-type: none;
+    bottom: 0px;
+    text-align: center;
+    width: 100%;
+    position: fixed;
     background-color: rgb(102, 102, 119);
-    height: 35px;
+    font-family: 'Bungee', cursive;
 }
 
 h1#titulop{
     margin-top: 10px;
     background-color: rgb(102, 102, 119);
+    font-family: 'Bungee', cursive;
 }
 
 h1#tiuloc{
     margin-top: 10px;
     background-color: rgb(102, 102, 119);
+    font-family: 'Bungee', cursive;
 }
 
 img#redes{
