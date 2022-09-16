@@ -86,3 +86,37 @@ img#redes{
     border-radius: 50%;
     border: 1px solid black;
 }
+
+
+img#codig{
+    margin-top: 1px;
+    width: 100%;
+}
+
+img#comp{
+    border-radius: 50%;
+    border: 3px solid black;
+    margin: 10px;
+}
+
+img#redesimg{
+    border-radius: 50%;
+    border: 3px solid black;
+    margin: 10px;
+}
+
+img#redesnav{
+    margin-top: 1px;
+    width: 100%;
+}
+
+img#contatohead{
+    border-radius: 50%;
+    border: 3px solid black;
+    margin: 10px;
+}
+
+img#contatomain{
+    margin-top: 1px;
+    width: 100%;
+}
