@@ -62,7 +62,6 @@ p{
 }
 
 footer{
-    height: 180px;
     bottom: 0px;
     text-align: center;
     width: 100%;
@@ -71,29 +70,6 @@ footer{
     font-family: 'Bungee', cursive;
 }
 
-footer div{
-    height: 80px;
-}
-
-form{
-    display: inline-flex;
-    flex-direction: column;
-}
-
-form label{
-    justify-content: left;
-}
-
-#msg{
-    align-items: flex-start;
-    height: 80px;
-}
-
-#copyright{
-    position: fixed;
-    bottom: 0px;
-    background-color: rgb(63, 63, 73);
-}
 
 h1#titulop{
     margin-top: 10px;
