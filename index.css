@@ -4,9 +4,23 @@
     border: 0px;
 }
 
-@media only screen and (max-device-width: 900px) {
-    .body { width:100%; }
+@media only screen and (max-device-width: 600px) {
+    .body { 
+        width:100%;
     }
+
+    nav ul{
+        margin-top: 1px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content:space-evenly;
+        list-style-type: none;
+        background-color: rgb(42, 84, 126);
+        height: 35px;
+        font-family: 'Bungee', cursive;
+    }
+}
 
 header{
     display: flex;
