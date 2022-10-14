@@ -4,7 +4,7 @@
     border: 0px;
 }
 
-@media only screen and (max-device-width: 600px) {
+@media only screen and (max-device-width: 412px) {
     .body { 
         width:100%;
     }
@@ -20,6 +20,20 @@
         height: 35px;
         font-family: 'Bungee', cursive;
     }
+
+    #titulo{
+        margin-left: 30px;
+        color:whitesmoke;   
+        font-family: 'Bungee', cursive;
+    }
+
+    img#hero{
+        height: 40px;
+        width: 40px;
+        border-radius: 50%;
+        border: 3px solid black;
+        margin: 10px;
+    }
 }
 
 header{
@@ -34,6 +48,7 @@ header{
     color:whitesmoke;   
     font-family: 'Bungee', cursive;
 }
+
 
 img#hero{
     border-radius: 50%;
