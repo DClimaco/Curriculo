@@ -76,7 +76,7 @@ nav ul{
     justify-content:space-evenly;
     list-style-type: none;
     background-color: rgb(42, 84, 126);
-    height: 6vw;
+    height: 4vw;
     font-family: 'Bungee', cursive;
 }
 
@@ -85,7 +85,7 @@ nav ul li a:link,a:visited{
     text-decoration: none;
     font-size: 15px;
     font-family: 'Bungee', cursive;
-    font-size: 4vw;
+    font-size: 2vw;
 }
 
 nav ul li a:hover{
@@ -116,6 +116,7 @@ footer{
     position: fixed;
     background-color: rgb(102, 102, 119);
     font-family: 'Bungee', cursive;
+    font-size: 1vw;
 }
 
 
@@ -133,8 +134,8 @@ h1#tiuloc{
 }
 
 img#redes{
-    height: 3vw;
-    width: 3vw;
+    height: 1.5vw;
+    width: 1.5vw;
     border-radius: 50%;
     border: 1px solid black;
 }
